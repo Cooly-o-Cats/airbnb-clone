@@ -1,0 +1,7 @@
+@tailwind components;
+
+@layer components {
+    .filter-button{
+        @apply px-4 py-2 border rounded-full cursor-pointer transition hover:shadow-lg active:scale-95 active:bg-gray-100 duration-100 ease-out
+    }
+}

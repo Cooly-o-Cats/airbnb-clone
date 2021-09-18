@@ -11,7 +11,6 @@ export default function Home({ exploreData, cardsData }) {
     <div className="">
       <Head>
         <title>Airbnb: Vacation Rentals, Cabins, Beach Houses, Unique Homes & Experiences</title>
-        <link rel="icon" href="https://cdn.icon-icons.com/icons2/836/PNG/512/Airbnb_icon-icons.com_66791.png" />
       </Head>
 
       <Header />
